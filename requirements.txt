@@ -1,0 +1,10 @@
+django-ckeditor
+
+
+psycopg2-binary
+
+django
+django-bootstrap5
+
+Pillow
+
